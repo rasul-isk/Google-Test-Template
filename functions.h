@@ -1,7 +1,5 @@
-//Assignment No.:	Lab 2
-//Student Name:		Rasul Iskandarov
-//Student Number:	C00246498
-//Date:				29/10/2021
+//Full Name:		Rasul Iskandarov
+//Date:			29/10/2021
 
 #pragma once
 
